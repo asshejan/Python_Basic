@@ -1,0 +1,1 @@
+{"name":"Local: Q_Digits","url":"/Users/abusayeam/Desktop/Python/Python Basic/Q_Digits.py","tests":[{"id":1699960373216,"input":"4\n121\n39\n123456\n1200","output":"1 2 1\n9 3\n6 5 4 3 2 1\n0 0 2 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/abusayeam/Desktop/Python/Python Basic/Q_Digits.py","group":"local","local":true}
